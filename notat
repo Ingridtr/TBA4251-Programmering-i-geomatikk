@@ -1,0 +1,1 @@
+You do not need use K means clustering. You can find the upper edge of line of the roof polygon by checking the height (z values almost as the highest value and the points with this z values form a line segment that is parallel to the horizontal plan. In the same way, you can find the lower edge which is parallel to the horizontal plane).
