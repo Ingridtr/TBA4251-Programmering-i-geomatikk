@@ -1,5 +1,5 @@
 # TBA4251_Programmering_i_geomatikk
-I will use a model-driven approach for 3D roof reconstruction to identify and write 3D models of roofs in Trondheim.
+I have used a model-driven approach for 3D roof reconstruction to identify and write 3D models of roofs in Trondheim.
 
 ## Input:
     - Segmented roof point clouds
