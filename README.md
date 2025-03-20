@@ -12,4 +12,4 @@ I have used two different approaches for this task.
 Found matching roof point clouds and footprint buildings. Combined the building polygon with the z-value, and plotted the 3D results with Matplotlib.
 
 ## Method 2:
-Extracted plane polygons using planar patch detection. Extruded the roof models to their corresponding footprints to get the 3D building models. Plotted with Open3D.
+Extracted plane polygons using planar patch detection. Extruded the roof models to their corresponding footprints to get the 3D building models. 
